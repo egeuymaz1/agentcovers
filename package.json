@@ -1,0 +1,13 @@
+{
+  "name": "poolsite",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-manifest.mjs",
+    "optimize": "powershell -ExecutionPolicy Bypass -File scripts/optimize-media.ps1",
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}

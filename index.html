@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Poolsite Agent Showcase</title>
+    <meta
+      name="description"
+      content="Covers klasorundeki agent videolarini ve gorsellerini kartlar halinde gosterir."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section id="gallery" class="gallery" aria-label="Agent kartlari"></section>
+
+      <section id="emptyState" class="empty-state" hidden>
+        <h2>Henuz gosterilecek agent yok.</h2>
+        <p>`poolsite/covers` icine klasor ve media dosyasi ekleyin.</p>
+      </section>
+    </main>
+
+    <script src="./manifest.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

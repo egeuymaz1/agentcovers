@@ -2,14 +2,20 @@ window.POOLSITE_MANIFEST = [
   {
     "id": "3d-figure-generator",
     "title": "3d Figure Generator",
-    "file": "./covers/3d-figure-generator/3d-figure-generator.mp4",
-    "sourcePath": "covers/3d-figure-generator/3d-figure-generator.mp4"
+    "file": "./covers/3d-figure-generator/3d-figure-generator-2.mp4",
+    "sourcePath": "covers/3d-figure-generator/3d-figure-generator-2.mp4"
   },
   {
     "id": "3d-render",
     "title": "3d Render",
     "file": "./covers/3d-render/3d-render.mp4",
     "sourcePath": "covers/3d-render/3d-render.mp4"
+  },
+  {
+    "id": "60's cafe style",
+    "title": "60'S Cafe Style",
+    "file": "./covers/60's cafe style/60'scafe style.mp4",
+    "sourcePath": "covers/60's cafe style/60'scafe style.mp4"
   },
   {
     "id": "ai-assistant",
@@ -46,6 +52,12 @@ window.POOLSITE_MANIFEST = [
     "title": "Amazon Seo Research",
     "file": "./covers/amazon seo research/amazon-seo-research.mp4",
     "sourcePath": "covers/amazon seo research/amazon-seo-research.mp4"
+  },
+  {
+    "id": "angles",
+    "title": "Angles",
+    "file": "./covers/angles/angles.mp4",
+    "sourcePath": "covers/angles/angles.mp4"
   },
   {
     "id": "angles 20",
@@ -332,8 +344,8 @@ window.POOLSITE_MANIFEST = [
   {
     "id": "keyword seo tool",
     "title": "Keyword Seo Tool",
-    "file": "./covers/keyword seo tool/keyword-seo-tool.mp4",
-    "sourcePath": "covers/keyword seo tool/keyword-seo-tool.mp4"
+    "file": "./covers/keyword seo tool/Keyword SEO Tool.mp4",
+    "sourcePath": "covers/keyword seo tool/Keyword SEO Tool.mp4"
   },
   {
     "id": "knowledge card factory",
@@ -392,8 +404,8 @@ window.POOLSITE_MANIFEST = [
   {
     "id": "micro course builder",
     "title": "Micro Course Builder",
-    "file": "./covers/micro course builder/micro-course-builder.mp4",
-    "sourcePath": "covers/micro course builder/micro-course-builder.mp4"
+    "file": "./covers/micro course builder/Micro Course Builder.mp4",
+    "sourcePath": "covers/micro course builder/Micro Course Builder.mp4"
   },
   {
     "id": "mockup-studio",
@@ -434,8 +446,8 @@ window.POOLSITE_MANIFEST = [
   {
     "id": "nano theft style",
     "title": "Nano Theft Style",
-    "file": "./covers/nano theft style/nano-theft-style.mp4",
-    "sourcePath": "covers/nano theft style/nano-theft-style.mp4"
+    "file": "./covers/nano theft style/Nano Theft Style.mp4",
+    "sourcePath": "covers/nano theft style/Nano Theft Style.mp4"
   },
   {
     "id": "object-letter-crafter",
@@ -478,6 +490,12 @@ window.POOLSITE_MANIFEST = [
     "title": "Outfit Vending Machine",
     "file": "./covers/outfit vending machine/outfit-vending-machine.mp4",
     "sourcePath": "covers/outfit vending machine/outfit-vending-machine.mp4"
+  },
+  {
+    "id": "paper review agent",
+    "title": "Paper Review Agent",
+    "file": "./covers/paper review agent/paper-review-agent.mp4",
+    "sourcePath": "covers/paper review agent/paper-review-agent.mp4"
   },
   {
     "id": "pet-morph-wizard",

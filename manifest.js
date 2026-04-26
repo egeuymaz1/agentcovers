@@ -108,6 +108,12 @@ window.POOLSITE_MANIFEST = [
     "sourcePath": "covers/caption ai/caption-ai.mp4"
   },
   {
+    "id": "Chameleon",
+    "title": "Chameleon",
+    "file": "./covers/Chameleon/Chameleon.mp4",
+    "sourcePath": "covers/Chameleon/Chameleon.mp4"
+  },
+  {
     "id": "character creator",
     "title": "Character Creator",
     "file": "./covers/character creator/freepik_create-a-video_2823811422.mp4",
@@ -278,8 +284,8 @@ window.POOLSITE_MANIFEST = [
   {
     "id": "image- breakdown",
     "title": "Image Breakdown",
-    "file": "./covers/image- breakdown/image-breakdown-cinematic.mp4",
-    "sourcePath": "covers/image- breakdown/image-breakdown-cinematic.mp4"
+    "file": "./covers/image- breakdown/image-breakdown.mp4",
+    "sourcePath": "covers/image- breakdown/image-breakdown.mp4"
   },
   {
     "id": "image expander",
@@ -492,6 +498,12 @@ window.POOLSITE_MANIFEST = [
     "sourcePath": "covers/outfit vending machine/outfit-vending-machine.mp4"
   },
   {
+    "id": "paint-app style",
+    "title": "Paint App Style",
+    "file": "./covers/paint-app style/paint app style.mp4",
+    "sourcePath": "covers/paint-app style/paint app style.mp4"
+  },
+  {
     "id": "paper review agent",
     "title": "Paper Review Agent",
     "file": "./covers/paper review agent/paper-review-agent.mp4",
@@ -622,6 +634,12 @@ window.POOLSITE_MANIFEST = [
     "title": "Signboard Generator",
     "file": "./covers/signboard generator/signboard-generator.mp4",
     "sourcePath": "covers/signboard generator/signboard-generator.mp4"
+  },
+  {
+    "id": "sims style",
+    "title": "Sims Style",
+    "file": "./covers/sims style/sims style.mp4",
+    "sourcePath": "covers/sims style/sims style.mp4"
   },
   {
     "id": "sketch-to-image",
